@@ -1,0 +1,9 @@
+C:\Users\s210694\Desktop\Code\FormsPractice\FormsPractice\bin\Debug\FormsPractice.exe.config
+C:\Users\s210694\Desktop\Code\FormsPractice\FormsPractice\bin\Debug\FormsPractice.exe
+C:\Users\s210694\Desktop\Code\FormsPractice\FormsPractice\bin\Debug\FormsPractice.pdb
+C:\Users\s210694\Desktop\Code\FormsPractice\FormsPractice\obj\Debug\FormsPractice.csprojAssemblyReference.cache
+C:\Users\s210694\Desktop\Code\FormsPractice\FormsPractice\obj\Debug\FormsPractice.Form1.resources
+C:\Users\s210694\Desktop\Code\FormsPractice\FormsPractice\obj\Debug\FormsPractice.Properties.Resources.resources
+C:\Users\s210694\Desktop\Code\FormsPractice\FormsPractice\obj\Debug\FormsPractice.csproj.GenerateResource.cache
+C:\Users\s210694\Desktop\Code\FormsPractice\FormsPractice\obj\Debug\FormsPractice.exe
+C:\Users\s210694\Desktop\Code\FormsPractice\FormsPractice\obj\Debug\FormsPractice.pdb
